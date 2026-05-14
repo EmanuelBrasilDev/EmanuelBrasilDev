@@ -45,6 +45,8 @@ A **Arvyon Hub** é meu ecossistema de produtos digitais, serviços web e sistem
 
 ## 🧩 Projetos em destaque
 
+### 🚀 SaaS e Vitrines Arvyon
+
 <table>
   <tr>
     <td width="50%">
@@ -81,51 +83,44 @@ A **Arvyon Hub** é meu ecossistema de produtos digitais, serviços web e sistem
       </a>
     </td>
     <td width="50%">
-      <h3>🏢 CNH Kids Digital</h3>
+      <h3>⚙️ Em expansão</h3>
       <p>
-        Sistema digital para controle de clientes, carimbos, unidades,
-        funcionários e painel administrativo para operação real.
+        Novos produtos SaaS estão sendo planejados e desenvolvidos para ampliar
+        o ecossistema da Arvyon Hub.
       </p>
-      <img src="https://img.shields.io/badge/Sistema%20Real-020617?style=for-the-badge&logo=react&logoColor=38bdf8" />
+      <img src="https://img.shields.io/badge/Novos%20SaaS%20em%20breve-020617?style=for-the-badge&logo=rocket&logoColor=38bdf8" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tecnologias
+### ✅ Projetos reais
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/Vite-020617?style=for-the-badge&logo=vite&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/TailwindCSS-020617?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=facc15" />
-  <img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=22c55e" />
-  <img src="https://img.shields.io/badge/Supabase-020617?style=for-the-badge&logo=supabase&logoColor=22c55e" />
-  <img src="https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=ffffff" />
-</p>
-
----
-
-## 🗄️ Backend e Banco de Dados
-
-Tenho trabalhado com projetos preparados para evoluir de versões locais e demonstrativas para estruturas reais usando **Supabase** integrado ao **PostgreSQL**.
-
-Essa abordagem permite criar sistemas com:
-
-- Autenticação
-- Banco relacional
-- Tabelas organizadas
-- Regras de acesso
-- APIs e integrações
-- Migração futura de dados locais
-- Estrutura preparada para SaaS multiusuário
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Supabase%20%2B%20PostgreSQL-020617?style=for-the-badge&logo=supabase&logoColor=22c55e" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏎️ CNH Kids Digital</h3>
+      <p>
+        Sistema digital para controle de clientes, carimbos, unidades,
+        funcionários e painel administrativo, criado para uma operação real.
+      </p>
+      <a href="https://cnh-kids.vercel.app/">
+        <img src="https://img.shields.io/badge/Acessar%20Projeto-38bdf8?style=for-the-badge&logo=vercel&logoColor=020617" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>💅 Manicures Que Brilham</h3>
+      <p>
+        Site profissional desenvolvido para apresentação de serviços,
+        presença digital e fortalecimento de marca no segmento de beleza.
+      </p>
+      <a href="https://manicures-que-brilham.vercel.app/">
+        <img src="https://img.shields.io/badge/Acessar%20Projeto-f472b6?style=for-the-badge&logo=vercel&logoColor=020617" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -134,17 +129,15 @@ Essa abordagem permite criar sistemas com:
 Construir produtos digitais modernos, acessíveis e escaláveis.
 
 Atualmente focado em:
+
 - Arvyon Hub
 - Arvyon Loyalty
 - Arvyon Schedule
 - Arvyon CRM
 - CNH Kids Digital
+- Manicures Que Brilham
 - Sistemas SaaS para pequenos negócios
 - Projetos com React, Vite, TailwindCSS, Supabase e PostgreSQL
-
----
-
----
 
 ---
 
